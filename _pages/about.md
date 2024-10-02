@@ -5,9 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## About Me
-
 I am a Master's student in Mathematics, Statistics, and Computing at the University of São Paulo, advised by Sergio A. David. My research focuses on applying machine learning techniques to solve complex problems in natural language processing, and computational linguistics.
 
 With a strong background in Data Science and Machine Learning, I have contributed to several projects involving the application of deep learning and natural language processing (NLP) models to solve real-world problems. Currently, I am working at Hand Talk, the world's largest platform for automatic translation in Sign Languages, where I lead efforts to enhance accessibility through AI-driven solutions.
