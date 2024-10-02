@@ -6,7 +6,7 @@
 
 main:
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://wmaia9.github.io/wonderland/index.html
         
   - title: "CV"
     url: /files/Wesley_CV.pdf
