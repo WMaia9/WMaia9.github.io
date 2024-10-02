@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+##
 
 I am a Master's student in Mathematics, Statistics, and Computing at the University of São Paulo, advised by Sergio A. David. My research focuses on applying machine learning techniques to solve complex problems in natural language processing, and computational linguistics.
 
