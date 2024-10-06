@@ -19,9 +19,6 @@ With a strong background in Data Science and Machine Learning, I have contribute
 - **Data Scientist, Hand Talk** (Jun 2021 – Present)  
   Conducted research on models for translating text to sign language without glosses, developing and optimizing Sign Language Translation (SLT) models to increase translation performance. Automated 3D animation processes using generative AI and designed machine translation models to enhance language support and accuracy. Led research on novel model architectures, resulting in a 15% improvement in machine translation performance, and implemented computer vision techniques for accessibility features to expand reach to visually impaired users. Streamlined data workflows by integrating cloud-based services to ensure data integrity and efficiency, while utilizing model tracking and experimentation tools in MLOps to accelerate the AI development lifecycle.
 
-Feel free to check out my [Research Interests](research/) to learn more about my specific research areas.
-
-
 ## Publications
 
 ### Automatic Sign Language to Text Translation Using Mediapipe and Transformer Architectures  
