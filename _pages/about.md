@@ -39,6 +39,7 @@ The results showed that the BERT model, with an F1 Macro Score of up to 99% for 
 ### Machine Learning Applied to Estate Pricing for Residential Rentals in Dynamic Urban Markets - the Case of São Paulo City  
 **Wesley Ferreira Maia**, Sergio A. David  
 This study delves into real estate rental pricing in São Paulo using advanced machine learning techniques, geospatial analysis, and NLP. The research involved a rigorous preprocessing of 35,486 instances, integrating textual and geographic data for comprehensive analysis. By comparing various regression models, including a novel Blending model, the study achieved a notable RMSLE of 0.2923. These findings offer landlords and tenants a data-driven decision-making tool for real estate pricing and contribute to informed decisions in São Paulo's dynamic rental market.
+**Available at**: [Engineering Analysis with Boundary Elements](https://www.sciencedirect.com/science/article/abs/pii/S0955799724004612?dgcid=coauthor)
 
 ## Academic Service and Teaching
 
